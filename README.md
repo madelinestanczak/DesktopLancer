@@ -7,5 +7,3 @@ Simply open the executable and you'll have your very own desktop Lancer! When dr
 
 
 https://github.com/user-attachments/assets/f9373fe0-cf4d-4280-862e-09f33b50ddeb
-
-https://github.com/madelinestanczak/DesktopLancer/blob/1ee81adee5d92827a8671b6d5e79eea573bbb567/DesktopLancer.exe
