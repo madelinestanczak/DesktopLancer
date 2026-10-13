@@ -5,4 +5,4 @@ This is a little desktop Lancer pet I made in about 30 minutes to go with my DEL
 ## Usage
 Simply open the executable and you'll have your very own desktop Lancer! When dragged, a red background appears- this is so you can reposition him with ease.
 
-https://github.com/user-attachments/assets/403b050b-24ff-4102-83ff-f835eb9904d2
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/039e4cec-1eaa-4f2f-96b7-8910ce311b73" />
